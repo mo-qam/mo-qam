@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Mohammed Qamar here,
+
+- 🔭 I’m currently working on Unity and Unreal Engine projects.
+- 🌱 I’m currently learning about advanced technical design workflows for game development
+- 🗺 Experienced in designing, developing and prototyping, game applications.
+- 📫 How to reach me: qamar@moqam.ca or moqam.ca
+
 <!--
 **mo-qam/mo-qam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
