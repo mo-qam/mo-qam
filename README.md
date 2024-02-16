@@ -11,4 +11,4 @@
 
 ### Find Me Here ! 🙋‍♂️
 
-[Linkedin](https://www.linkedin.com/in/moqam)    [Artstation](https://www.artstation.com/moqam)    [Itch.io](https://mohammed-qamar.itch.io/)
+[![Linkedin](images/linkedin.png)](https://www.linkedin.com/in/moqam)    [![Artstation](images/artstation.png)](https://www.artstation.com/moqam)    [![Itch.io](images/itchio.png)](https://mohammed-qamar.itch.io/)
