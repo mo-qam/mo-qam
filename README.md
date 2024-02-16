@@ -11,4 +11,8 @@
 
 ### Find Me Here ! 🙋‍♂️
 
-[![Linkedin](images/linkedin.png)](https://www.linkedin.com/in/moqam)    [![Artstation](images/artstation.png)](https://www.artstation.com/moqam)    [![Itch.io](images/itchio.png)](https://mohammed-qamar.itch.io/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/moqam" style="margin-right: 10px;"><img src="images/linkedin.png" alt="Linkedin" width="40" height="40"/></a>
+  <a href="https://www.artstation.com/moqam" style="margin-right: 10px;"><img src="images/artstation.png" alt="Artstation" width="40" height="40"/></a>
+  <a href="https://mohammed-qamar.itch.io/"><img src="images/itchio.png" alt="Itch.io" width="40" height="40"/></a>
+</p>
