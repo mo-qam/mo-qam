@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## Mohammed Qamar here,
-- ⚡ Technical Artist at Alientrap Games
+- ⚡ Level Artist at Ubisoft
 - 🔭 I’m currently working on Unity and Unreal Engine projects.
-- 🌱 I’m currently learning about advanced technical design workflows for game development
+- 🌱 I’m currently learning about developing advanced technical tools to optimize workflows, for game development
 - 🗺 Experienced in designing, developing and prototyping, game applications.
 - 📫 How to reach me: qamar@moqam.ca or [moqam.ca](https://moqam.ca/)
 
