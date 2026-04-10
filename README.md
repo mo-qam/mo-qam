@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Mohammed Qamar here,
-- ⚡ Developer at Ubisoft
+- ⚡ Developer at AlienTrap Games
 - 🔭 I’m currently working on Unity and Unreal Engine projects.
 - 🌱 I’m currently learning about developing advanced technical tools to optimize workflows, for game development
 - 🗺 Experienced in designing, developing and prototyping, game applications.
